@@ -1,6 +1,6 @@
 {
   "name": "@beeman/anchor-counter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JavaScript client for the Anchor Counter program",
   "sideEffects": false,
   "module": "./dist/src/index.mjs",
